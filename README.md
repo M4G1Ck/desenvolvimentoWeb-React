@@ -1,2 +1,2 @@
 # desenvolvimentoWeb-React
-⚛️Desenvolvimento Web-ResidenciaSerraTec2021
+<h1 align="center">⚛️Desenvolvimento Web-ResidenciaSerraTec2021</h1>
