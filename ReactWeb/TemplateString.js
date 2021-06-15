@@ -1,6 +1,6 @@
-//const str1 = `Ola ${1 + 1} !`
-var teste = 1+1
-const str1 = "Ola " + teste + " !"
+const str1 = `Ola ${1 + 1} !`
+//var teste = 1+1
+//const str1 = "Ola " + teste + " !"
 console.log(str1)
 
 const a = 10+1
